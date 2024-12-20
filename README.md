@@ -44,4 +44,4 @@ npx hardhat run .\scripts\withdraw.ts
 
 ## Contract Address
 BSC testnet:
-[0xc24634141D2aEAaf8b442dc6eCb78B5354766143](https://testnet.bscscan.com/address/0xEab468eecba2a5FA12213668eB12079d6ecdEcE6#code)
+[0xc24634141D2aEAaf8b442dc6eCb78B5354766143](https://testnet.bscscan.com/address/0xc24634141D2aEAaf8b442dc6eCb78B5354766143#code)
